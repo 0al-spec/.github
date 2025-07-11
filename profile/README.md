@@ -34,6 +34,7 @@ every process — *sandboxed, signed, introspectable*.
 | `zeroald`                  | Reference runtime daemon for executing native 0AL agents |
 | `agentifyd`                | Agentification daemon for legacy binaries using Agent Passport |
 | `zeroal`                   | CLI tools for building, signing, validating, and running agents |
+| `Hypercode`                | RFC/specification for declarative programming paradigm |
 | `docs`                     | Documentation, guides, and developer materials (planned) |
 
 ---

@@ -30,11 +30,11 @@ every process — *sandboxed, signed, introspectable*.
 
 | Repository                 | Description |
 |----------------------------|-------------|
-| `agent-passport` | RFC/specification for the Agent Passport format |
+| [`agent-passport`](https://github.com/0al-spec/agent-passport) | RFC/specification for the Agent Passport format |
 | `zeroald`                  | Reference runtime daemon for executing native 0AL agents |
 | `agentifyd`                | Agentification daemon for legacy binaries using Agent Passport |
 | `zeroal`                   | CLI tools for building, signing, validating, and running agents |
-| `Hypercode`                | RFC/specification for declarative programming paradigm |
+| [`Hypercode`](https://github.com/0al-spec/Hypercode) | RFC/specification for declarative programming paradigm |
 | `docs`                     | Documentation, guides, and developer materials (planned) |
 
 ---

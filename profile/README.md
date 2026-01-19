@@ -35,7 +35,8 @@ every process — *sandboxed, signed, introspectable*.
 | `agentifyd`                | Agentification daemon for legacy binaries using Agent Passport |
 | `zeroal`                   | CLI tools for building, signing, validating, and running agents |
 | [`Hypercode`](https://github.com/0al-spec/Hypercode) | RFC/specification for declarative programming paradigm |
-| `docs`                     | Documentation, guides, and developer materials (planned) |
+| [`Metrics`](https://github.com/0al-spec/Metrics) | Metrics for AI-driven development |
+| [`Materials`](https://github.com/0al-spec/Materials) | Documentation, guides, and developer materials (planned) |
 
 ---
 
